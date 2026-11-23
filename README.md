@@ -1,6 +1,10 @@
 # Shypact Labs
 
-Shypact Labs is an independent software group building projects for communication, learning and productivity.
+Shypact Labs is an independent software group building Android apps and browser prototypes for communication, learning and productivity.
+
+## Work with Shypact Labs
+
+[Prepare an Android project brief](https://shypact.com/android-development). Describe the app, choose the features you need and tell us how to reach you.
 
 ## Try the projects
 
@@ -10,4 +14,4 @@ Shypact Labs is an independent software group building projects for communicatio
 
 ## Contact
 
-[Website](https://shypact.com/) · [Instagram](https://www.instagram.com/shypactlabs/) · [contact@shypact.com](mailto:contact@shypact.com)
+[Website](https://shypact.com/) · [Instagram](https://www.instagram.com/shypactlabs/) · [LinkedIn](https://www.linkedin.com/in/shypact-labs-547926451/) · [contact@shypact.com](mailto:contact@shypact.com)
