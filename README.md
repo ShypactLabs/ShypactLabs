@@ -4,7 +4,9 @@ Shypact Labs is an independent software group building Android apps and browser 
 
 ## Work with Shypact Labs
 
-[Prepare an Android project brief](https://shypact.com/android-development). Describe the app, choose the features you need and tell us how to reach you.
+Shypact Labs accepts custom Android app inquiries for new apps, prototypes and updates to existing apps. Describe what people should be able to do and leave an email address or WhatsApp number.
+
+[Send an Android project inquiry in English](https://shypact.com/android-development#brief) · [Türkçe Android proje talebi gönderin](https://shypact.com/android-gelistirme#brief)
 
 ## Try the projects
 
